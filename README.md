@@ -1,7 +1,7 @@
 Ampli-tag
 =========
 
-Ampli-tag is a VU meter for NeoPixel LED strips. A 'fork' of the Ampli-tie project from Adafruit/Becky/Colin and other people mentioned below.
+Ampli-tag is a VU meter for NeoPixel LEDs and strips. A 'fork' of the Ampli-tie project from Adafruit/Becky/Colin and other people mentioned below.
 
 
 
