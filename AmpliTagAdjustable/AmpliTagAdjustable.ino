@@ -1,4 +1,5 @@
 /*
+
 LED VU meter for Arduino and Adafruit NeoPixel LEDs. More info: http://learn.adafruit.com/led-ampli-tie/
  
  Hardware requirements:
@@ -27,7 +28,8 @@ LED VU meter for Arduino and Adafruit NeoPixel LEDs. More info: http://learn.ada
  Written by Paul Badger 2007
  Modified from code by Greg Shakar
  
- */
+*/
+
 
 #include <Adafruit_NeoPixel.h>
 #include <math.h>
@@ -230,7 +232,3 @@ uint32_t Wheel(byte WheelPos) {
     return strip.Color(0, WheelPos * 3, 255 - WheelPos * 3);
   }
 }
-
-
-
-
